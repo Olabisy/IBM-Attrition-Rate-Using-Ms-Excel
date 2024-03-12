@@ -20,6 +20,8 @@ IBM, or International Business Machines Corporation, also known as “Blue Sky�
 Attrition rate,  a voluntary and involuntary departures of employees from an organization, carries substantial implications for IBM's workforce management, productivity, and overall business performance. Elevated attrition rates within IBM could lead to increased recruitment and training expenditures, the erosion of institutional knowledge and expertise, diminished employee morale and engagement, and potential disruptions to project timelines and deliverables. Addressing and mitigating high attrition rates is critical for IBM to sustain a stable and productive workforce, ensuring continued success and competitiveness in the market.
 This analysis explores the multifaceted landscape of employees attrition within IBM, seeking to unveil nuanced insights into the root causes, patterns, and trends driving employee turnover. By comprehending these dynamics, IBM can pinpoint areas of vulnerability, deploy tailored retention tactics, and tackle the fundamental drivers of attrition head-on.
 
+![HR Attrition Rate Updated - Excel Dashboard](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/c63bc6f3-fc20-488c-aa95-10d183d1741c)
+
 
 ### PROJECT GOAL
 The central aim of this analysis is to uncover the core reasons driving employee departures from IBM and to identify specific areas within the company where turnover rates are particularly high. By understanding the underlying motivations behind employee exits and pinpointing the departments experiencing elevated turnover, IBM can develop targeted strategies to address these issues and improve overall retention efforts.
@@ -74,11 +76,16 @@ In this analysis, a total of 1,470 employees were included, out of which 1,233 e
 
     Taking gender into account, approximately 60% of the employees, totaling 882 individuals, were male. Among them, around 10.2% (150 employees) have experienced attrition.
     Female employees accounted for 40% of the workforce, with a total of 588 individuals. Within this group, approximately 5.9% (35 employees) are now ex-employees.
-  
+   
+  ![Gender](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/b5abb9c6-f161-4645-bf1c-cf08d67ded7e)
+
     
 2. **Attrition by Marital Status**
 
    Out of the total 1,470 employees, approximately 45.8% were married, 31.9% were single, and 22.2% were divorced. Interestingly, based on the data, it appears that single employees have the highest attrition rate, followed by married employees. This suggests that marital status may play a role in employee turnover within the company. Further analysis could delve into the reasons behind this trend and explore potential strategies to improve retention among single and married employees.
+
+   ![Marital status](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/175fb7dd-3475-4f7e-8434-eef2f01a987e)
+
 
 3. **Attrition by Age**
 
@@ -86,37 +93,72 @@ In this analysis, a total of 1,470 employees were included, out of which 1,233 e
 Younger individuals often have a strong desire for career growth and may be more inclined to seek new challenges and opportunities outside of their current organization. This eagerness for career advancement could contribute to higher turnover rates among younger employees.
 Additionally, younger employees may be more willing to take risks and pursue new opportunities that align with their career goals, leading them to leave their current company more easily. This propensity for career change and advancement among younger individuals may contribute to the observed higher attrition rates in this age group.
 
+    ![Age](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/22ee9378-293b-4185-829e-b5d7f7e02453)
+
 4. **Attrition by Business Travel**
-     The data shows that employees who rarely travel on business trips tend to leave the company at a faster rate compared to those who frequently travel. The reason for this could be employees who rarely travel may feel stagnant in their roles and opportunities for growth. Lack of exposure to different environments and experiences may lead to disengagement and ultimately attrition.
+
+   The data shows that employees who rarely travel on business trips tend to leave the company at a faster rate compared to those who frequently travel. The reason for this could be employees who rarely travel may feel stagnant in their roles and opportunities for growth. Lack of exposure to different environments and experiences may lead to disengagement and ultimately attrition.
+ 
+    ![Business Travel](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/791bc86c-67e4-48f1-841d-4791fedbb064)
+
 
 5. **Attrition by Department**
-      The data shows that employees who rarely travel on business trips tend to leave the company at a faster rate compared to those who frequently travel. The reason for this could be employees who rarely travel may feel stagnant in their roles and opportunities for growth. Lack of exposure to different environments and experiences may lead to disengagement and ultimately attrition.
+
+    The data shows that employees who rarely travel on business trips tend to leave the company at a faster rate compared to those who frequently travel. The reason for this could be employees who rarely travel may feel stagnant in their roles and opportunities for growth. Lack of exposure to different environments and experiences may lead to disengagement and ultimately attrition.
+
+    ![Department](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/fdf2d449-1315-49f5-8c3c-b03e67f6c0b3)
+
   
 6. **Attrition by Monthly Income**
+   
      It's reasonable to say that income is a significant factor contributing to attrition rates, particularly in the Research and Development (R&D) and Sales departments, based on the provided data.
 In the R&D department, where approximately 47.8% of employees earn a low monthly salary, it's plausible that compensation plays a role in attrition. Employees in R&D roles often possess specialized skills and qualifications, and they may seek higher-paying opportunities elsewhere if they feel their contributions are not adequately recognized or compensated.
 Similarly, in the Sales department, where about 19.5% of employees earn a very low income, it is notable that the attrition rate is also high. Sales roles are often performance-driven, and employees may feel demotivated if they perceive their compensation to be insufficient relative to their efforts and results.
+ 
+   ![Income](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/add6787b-a796-4d1f-afdd-cf7a517b9fc5)
+
 
 7. **Attrition by Job Roles**
+
     Sales Executives, Research Scientists, and Laboratory Technicians are the job roles experiencing the highest attrition rates within the company. Further analysis reveals that these roles also have lower incomes compared to others within the organization. On the other hand, roles such as Research Directors and Managers typically command higher pay.
 The correlation between lower income levels and higher attrition rates among Sales Executives, Research Scientists, and Laboratory Technicians suggests that compensation may indeed be a significant factor influencing attrition in these roles. Employees in these positions may feel undervalued or financially constrained, leading them to seek opportunities elsewhere where they can receive higher compensation for their skills and contributions.
 
+   ![Job Roles](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/6b7b1270-0a5d-40ee-95f7-a1e076c184af)
+
+
 8. **Attrition by Education**
-      Employees with Bachelor's and Master's degrees exhibit higher attrition rates within the company, despite earning the most in the organization. I delve in deeper to see if there is any factor triggering their churn, surprisingly, job satisfaction levels among these degree holders reveals there is a considerable level of satisfaction. Their monthly income is also examined, they are the highest paying employees in the company.
+
+    Employees with Bachelor's and Master's degrees exhibit higher attrition rates within the company, despite earning the most in the organization. I delve in deeper to see if there is any factor triggering their churn, surprisingly, job satisfaction levels among these degree holders reveals there is a considerable level of satisfaction. Their monthly income is also examined, they are the highest paying employees in the company.
 Dissatisfaction with salary or job satisfaction is not the primary reasons for their departure. Instead, it's likely that the decision to leave is driven by a desire for career advancement and exploration.
 
+  ![Education](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/8ca63440-8593-496a-a5bb-b56b5f0b1214)
+
+
 9. **Attrition by Distance from Home**
-    Based on the visualization, it appears that distance from home may not have a significant impact on the attrition rate within the company. Majority of employees seem to live relatively close to their workplace, suggesting that commuting distance may not be a major factor influencing their decision to leave the company.
+
+   Based on the visualization, it appears that distance from home may not have a significant impact on the attrition rate within the company. Majority of employees seem to live relatively close to their workplace, suggesting that commuting distance may not be a major factor influencing their decision to leave the company.
+
+    ![Distance from home](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/88efd049-771e-4dff-bcdf-b9960d853b1b)
+
 
 10. **Attrition by Work Experience**
+
     Based on the dataset, employees who have spent fewer than 10 years in a company tend to have a higher tendency to leave.
 
+    ![Total working yrs](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/c2f0ab57-3c9a-435e-bac0-d10ea9f288e1)
+
+
 11. **Attrition by Number of Companies Worked**
-      Employees who have only worked for one company may have a higher likelihood of leaving, driven by a desire to explore opportunities outside of their current organization. Often referred to as "job hopping”.
+
+    Employees who have only worked for one company may have a higher likelihood of leaving, driven by a desire to explore opportunities outside of their current organization. Often referred to as "job hopping”.
+    ![Number of company worked](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/7a36474f-6ec1-4123-a71f-8a5d841c7198)
 
 
-12. **Attrition by Number of Companies Worked**
-      It's intriguing to note that the number of training sessions attended in the previous year does not appear to have a significant impact on the attrition rate. In fact, employees who attended training two or three times in the previous year seem to have higher attrition rates.
+12. **Attrition by Training Times**
+
+     It's intriguing to note that the number of training sessions attended in the previous year does not appear to have a significant impact on the attrition rate. In fact, employees who attended training two or three times in the previous year seem to have higher attrition rates.
+  
+  ![TrainingTimes](https://github.com/Olabisy/IBM-HR-Employees-Attrition-Rate/assets/114803890/7cafbc1b-8f2f-4e5b-8ba1-889b09afebd0)
 
 
 ### FINDINGS
