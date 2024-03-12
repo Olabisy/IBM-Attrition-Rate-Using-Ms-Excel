@@ -1,6 +1,20 @@
 # Attrition Rate of IBM Employees
 ### Reasons Why Employees leave the company
 
+## Table of Contents
+
+- [INTRODUCTION](#introduction)
+- [PROJECT GOAL](#project-goal)
+- [DATA SOURCE](#data-source)
+- [TOOL USED](#tool-used)
+- [EXPLORATION OF DATA](#exploration-of-data)
+- [DATA PREPARATION](#data-preparation)
+- [DATA ANALYSIS](#data-analysis)
+- [FINDINGS](#findings)
+- [RECOMMENDATIONS](#recommendations)
+
+
+
 ### INTRODUCTION
 IBM, or International Business Machines Corporation, also known as “Blue Sky” is a global technology and consulting company founded in 1911. It is known for its diverse portfolio of products and services, ranging from hardware like mainframes and servers to software solutions and cloud computing services. However, the company has faced challenges regarding employee turnover. Despite its long history of innovation in computing and information technology, the company has experienced significant fluctuations in its workforce. 
 Attrition rate,  a voluntary and involuntary departures of employees from an organization, carries substantial implications for IBM's workforce management, productivity, and overall business performance. Elevated attrition rates within IBM could lead to increased recruitment and training expenditures, the erosion of institutional knowledge and expertise, diminished employee morale and engagement, and potential disruptions to project timelines and deliverables. Addressing and mitigating high attrition rates is critical for IBM to sustain a stable and productive workforce, ensuring continued success and competitiveness in the market.
